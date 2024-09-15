@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working as Student in The University of Edinburgh
 - 🌱 I’m currently learning Msc Finance, Technology & Policy
 - 👯 I’m looking to collaborate on coding excersises
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send me a DM on IG @itzmonza
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can't code well
--->
+
